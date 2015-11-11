@@ -11,6 +11,7 @@ namespace Version
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Ye Chan!");
+            Console.WriteLine("Nice to meet you");
         }
     }
 }
