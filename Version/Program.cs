@@ -10,7 +10,8 @@ namespace Version
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Ye Chan!");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}!");
         }
     }
 }
