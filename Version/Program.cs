@@ -12,7 +12,7 @@ namespace Version
         {
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}!");
-            Console.WriteLine("Nice to meet you");
+            Console.WriteLine("Nhfhfhgh");
         }
     }
 }
